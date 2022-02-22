@@ -1,7 +1,7 @@
 ### Olá! Eu sou Wallace Rossini
 
 - 🔭 Hoje trabalho com analise e desenvolvimento back-end 
-- 🌱 Estudando Docker, AWS e Typescript
+- 🌱 Estudando Docker, AWS ,React Native e Typescript
 
 <div>
   <a href="https://github.com/WallaceRossini">
